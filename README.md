@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jobayel46
+- 👋 Hi, I’m @Jobayel Hossain
 - 👀 I’m interested in Data Science (AI and Ml) and Full Stack Web Development 
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
